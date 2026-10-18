@@ -7,7 +7,7 @@
 
 📄 **Paper**: **LSTM-Driven Deep Learning for Real-Time Electric Vehicle Charging Route Optimization: A Hybrid Prediction-Optimization Framework**
 
-👥 **Authors**: Dr. Chahira CHERIF, Dr. Mohammed MAIZA, Prof. Samira CHOURAQUI, Prof. Abdelmalik TALEB-AHMED
+👥 **Authors**: Chahira CHERIF, Mohammed MAIZA, Samira CHOURAQUI, Abdelmalik TALEB-AHMED
 
 ---
 
