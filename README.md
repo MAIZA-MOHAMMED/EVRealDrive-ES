@@ -76,7 +76,7 @@ This paper introduces a hybrid deep learning framework that integrates LSTM-base
 | 1.0 | 3.4 | 8.9 | 17.5 |
 | 2.0 | 7.1 | 18.6 | 33.2 |
 
-*Regret grows roughly linearly with noise σ, consistent with Proposition 4.1.*
+*Regret grows roughly linearly with noise σ.*
 
 ---
 
