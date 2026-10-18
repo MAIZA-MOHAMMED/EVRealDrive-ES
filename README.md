@@ -24,7 +24,7 @@ This paper introduces a hybrid deep learning framework that integrates LSTM-base
 | 🔋 **LSTM-Based SoC Prediction** | Two-layer LSTM (128 units each) learns temporal dependencies in EV energy consumption from multi-dimensional driving sequences |
 | 🗺️ **Hybrid LSTM-Dijkstra** | Integrates learned SoC drops as time-varying edge weights for optimal charging route planning |
 | 🎯 **Multi-Objective Cost Function** | Balances economic, temporal, and carbon-emission costs via user-defined preference weights |
-| 📉 **Error-Propagation Bound** | Theoretical bound on route suboptimality as a function of SoC prediction error (Proposition 4.1) |
+| 📉 **Error-Propagation Bound** | Theoretical bound on route suboptimality as a function of SoC prediction error |
 | 📊 **Four Baseline Comparisons** | ARIMA, GRU, Transformer, and static/analytical baselines |
 | ⚡ **Real-Time Capability** | 185–220 ms query time on the 50-node test network (target: < 500 ms) |
 | 🌱 **Carbon-Aware Routing** | Grid carbon intensity factor (Spain 2023: 0.19 kg CO2/kWh) integrated into the objective |
